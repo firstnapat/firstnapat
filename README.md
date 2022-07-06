@@ -1,6 +1,10 @@
 
 ![Header](./github-header-image.png)
+---------------------
+## I'm a New Graduate Student in Electrical Engineering, I'm really passionate with Software Engineering, AI and Data Engineer
 
+## Tech Stack
+--------------------
 
 
 
