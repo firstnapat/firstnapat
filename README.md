@@ -1,10 +1,31 @@
-### Hi there 👋
+
+![Header](./[Your header image])
 
 
-**firstnapat/firstnapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+
+
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
+
+
+
+
+
+
+
+
+
+
+
+<!-- **firstnapat/firstnapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
+ 
+ 
+
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
