@@ -1,10 +1,13 @@
 
 ![Header](./github-header-image.png)
 ---------------------
-## I'm a New Graduate Student in Electrical Engineering, I'm really passionate with Software Engineering, AI and Data Engineer
+
+<p>I'm a New Graduate Student in Electrical Engineering, I'm really passionate with Software Engineering, AI and Data Engineer</p>
+<br>
 
 ## Tech Stack
 --------------------
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 
 
