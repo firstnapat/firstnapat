@@ -3,6 +3,7 @@
 ---------------------
 
 <p>I'm a New Graduate Student in Electrical Engineering, I'm really passionate with Software Engineering, AI and Data Engineer</p>
+<p>Currently, I'm enrolled in Junior Software Devloper at Generation Thailand for upgrade coding skill and development.</p>
 <br>
 
 ## Tech Stack
