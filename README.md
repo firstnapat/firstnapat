@@ -2,11 +2,10 @@
 ![Header](./1661608527138.jfif)
 ---------------------
 
-<p>I'm a New Graduate Student in Electrical Engineering, I'm really passionate with Software Engineering, AI and Data Engineer</p>
-<p>I'm enrolled in Junior Software Devloper at Generation Thailand for upgrade coding skill and development.</p>
-🌱 I’m currently learning Data Engineering tool such as Hadoop, Hive and Making Data Driven End to End Data Engineer project.
+<p>🌱I'm a Graduate Student in Electrical Engineering.</p>
+<p>✨Now I'm a Software Engineer.</p>
+<p>🥸Currently, I'm keep learnning about Software.</p>
 <br>
-👯 I looking for Data Engineer full-time position.</p>
 <br>
 
 ## Tech Stack
