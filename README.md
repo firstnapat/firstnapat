@@ -2,11 +2,9 @@
 ![Header](./1661608527138.jfif)
 ---------------------
 
-<p>🌱I'm a Graduate Student in Electrical Engineering.</p>
-<p>✨Now I'm a Software Engineer.</p>
-<p>🥸Currently, I'm keep learnning about Software.</p>
-<br>
-<br>
+<p> 🌱 I'm a Graduate Student in Electrical Engineering.</p>
+<p> ✨ Now I'm a Software Engineer.</p>
+<p> 🥸 Currently, I'm keep learnning about Software.</p>
 
 ## Tech Stack
 
