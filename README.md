@@ -3,8 +3,8 @@
 ---------------------
 
 <p> 🌱 I'm a Graduate Student in Electrical Engineering.</p>
-<p> ✨ Now I'm a Software Engineer.</p>
-<p> 🥸 Currently, I'm keep learnning about Software.</p>
+<p> ✨ Now I'm a Software Engineer, Data Engineer.</p>
+<p> 🥸 Currently, I'm Passionate about data engineer, data scientist and ML.</p>
 
 ## Tech Stack
 
